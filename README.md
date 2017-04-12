@@ -1,0 +1,2 @@
+# Techridez
+Techridez Official Repository
